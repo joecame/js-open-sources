@@ -7,7 +7,7 @@
 - **[nicedoc](https://github.com/IBM/nicedoc.io)** pretty README as service. 
 
 ### Datable
-- **[tabulator](https://github.com/olifolkerd/tabulator)** Interactive Tables and Data Grids for JavaScript.**
+- **[tabulator](https://github.com/olifolkerd/tabulator)** Interactive Tables and Data Grids for JavaScript.
 ### 📊 Data Visualization & Charts
 - **[apexcharts](https://github.com/apexcharts/apexcharts.js)** Interactive SVG Charts.
 
