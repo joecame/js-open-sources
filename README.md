@@ -34,3 +34,6 @@
 
 ### Web Components
 - **[omi](https://tencent.github.io/omi/)** Front End Cross-Frameworks Framework.
+
+### Encoding & Deconding
+- **[node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)** JWT(JSON Web Token) encode and decode module for node.js.
