@@ -29,6 +29,9 @@
 
 - **[slate](https://github.com/ianstormtaylor/slate)** A completely customizable framework for building rich text editors. (Currently in beta.)
 
+### File
+- **[filepond](https://github.com/pqina/filepond)** 🌊 A flexible and fun JavaScript file upload library.
+
 ### Analytics 
 - **[cube.js](https://github.com/cube-js/cube.js)** Open Source Analytics Framework.
 
