@@ -1,5 +1,7 @@
 ## 👍 Top JavaScript Open Source Projects
 
+- **[carbone](https://github.com/Ideolys/carbone)** Fast and simple report generator, from JSON to pdf, xslx, docx, odt.
+
 - **[resume.github.com](https://github.com/resume/resume.github.com)** 📋 Resumes generated using the GitHub informations.
 
 - **[carbon](https://github.com/carbon-app/carbon)** 🎨 Create and share beautiful images of your source code. 
