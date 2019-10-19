@@ -31,6 +31,8 @@
 
 - **[slate](https://github.com/ianstormtaylor/slate)** A completely customizable framework for building rich text editors. (Currently in beta.)
 
+- **[smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar)** Customizable, Pluginable, and High Performance Scrollbars!
+
 ### File
 - **[filepond](https://github.com/pqina/filepond)** 🌊 A flexible and fun JavaScript file upload library.
 
