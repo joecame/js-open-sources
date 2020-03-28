@@ -41,6 +41,7 @@
 
 ### Web Components
 - **[react](https://github.com/facebook/react/)** A declarative, efficient, and flexible JavaScript library for building user interfaces. 
+- **[vuejs](https://github.com/vuejs/vue)** is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - **[omi](https://tencent.github.io/omi/)** Front End Cross-Frameworks Framework.
 
 ### Encoding & Deconding
@@ -50,4 +51,4 @@
 - **[jsonblob](https://jsonblob.com/api)**
 
 ### Geospatial analysis
-- **[keplergl](https://github.com/keplergl/kepler.gl)** Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. 
+- **[keplergl](https://github.com/keplergl/kepler.gl)** is a powerful open source geospatial analysis tool for large-scale data sets. 
