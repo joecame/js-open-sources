@@ -45,5 +45,8 @@
 ### Encoding & Deconding
 - **[node-jwt-simple](https://github.com/hokaccha/node-jwt-simple)** JWT(JSON Web Token) encode and decode module for node.js.
 
+### Json store
+- **[jsonblob](https://jsonblob.com/api)**
+
 ### Geospatial analysis
 - **[keplergl](https://github.com/keplergl/kepler.gl)**
