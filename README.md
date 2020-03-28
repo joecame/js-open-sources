@@ -40,6 +40,7 @@
 - **[cube.js](https://github.com/cube-js/cube.js)** Open Source Analytics Framework.
 
 ### Web Components
+- **[react](https://github.com/facebook/react/)** A declarative, efficient, and flexible JavaScript library for building user interfaces. 
 - **[omi](https://tencent.github.io/omi/)** Front End Cross-Frameworks Framework.
 
 ### Encoding & Deconding
@@ -49,4 +50,4 @@
 - **[jsonblob](https://jsonblob.com/api)**
 
 ### Geospatial analysis
-- **[keplergl](https://github.com/keplergl/kepler.gl)**
+- **[keplergl](https://github.com/keplergl/kepler.gl)** Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. 
